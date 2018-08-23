@@ -6,7 +6,7 @@
 推荐使用 Debian 9 系统，脚本会自动启用 BBR 优化。
 1. 使用命令sudo -i取得root权限
 2. 使用 root 用户输入下面命令安装或卸载
-    git clone https://github.com/Crownzhu/v2ray--shadowsocks
+    git clone https://github.com/Crownzhu/v2ray_shadowsocks--GoogleCloud
     cd v2ray
     chmod +x install.sh
     ./install.sh local
