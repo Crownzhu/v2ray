@@ -19,9 +19,9 @@
   
 **另附：**  
 SSR 一键安装脚本（四合一）-by 秋水逸冰  
-```wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh  
-chmod +x shadowsocks-all.sh  
-./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log  ```
+`wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh`  
+`chmod +x shadowsocks-all.sh`  
+`./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log`  
   
 卸载方法  
 ./shadowsocks-all.sh uninstall  
