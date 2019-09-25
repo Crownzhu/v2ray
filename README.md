@@ -6,7 +6,7 @@
 推荐使用 Debian 9 系统，脚本会自动启用 BBR 优化。  
 1. 使用命令sudo -i取得root权限  
 2. 使用 root 用户输入下面命令安装或卸载  
-```cpp
+```javascript
 git clone https://github.com/Crownzhu/v2ray_shadowsocks--GoogleCloud  
 cd v2ray  
 chmod +x install.sh  
@@ -15,8 +15,7 @@ chmod +x install.sh
 如果提示 git 命令不可用，则使用 root 用户输入下面命令安装或卸载  
 `bash <(curl -s -L https://233blog.com/v2ray.sh)`  
 <br>
-<br>  
-<br>  
+<br>
 **另附：**  
 SSR 一键安装脚本（四合一）-by 秋水逸冰  
 ```javascript
