@@ -23,7 +23,6 @@ wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.
 chmod +x shadowsocks-all.sh  
 ./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log  
 ```
-<br>
 卸载方法<br>
 ./shadowsocks-all.sh uninstall<br>
 启动/停止/重启/查看状态（ShadowsocksR版）：<br> 
