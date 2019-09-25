@@ -7,10 +7,10 @@
 1. 使用命令sudo -i取得root权限  
 2. 使用 root 用户输入下面命令安装或卸载  
 ```javascript
-git clone https://github.com/Crownzhu/v2ray_shadowsocks--GoogleCloud  
-cd v2ray  
-chmod +x install.sh  
-./install.sh local  
+git clone https://github.com/Crownzhu/v2ray_shadowsocks--GoogleCloud
+cd v2ray
+chmod +x install.sh
+./install.sh local
 ```
 如果提示 git 命令不可用，则使用 root 用户输入下面命令安装或卸载  
 `bash <(curl -s -L https://233blog.com/v2ray.sh)`  
@@ -19,9 +19,9 @@ chmod +x install.sh
 ## 另附： 
 SSR 一键安装脚本（四合一）-by 秋水逸冰  
 ```javascript
-wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh  
-chmod +x shadowsocks-all.sh  
-./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log  
+wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
+chmod +x shadowsocks-all.sh
+./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
 ```
 卸载方法<br>
 ./shadowsocks-all.sh uninstall<br>
