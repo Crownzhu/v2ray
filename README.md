@@ -1,4 +1,4 @@
-# v2ray  
+# v2ray
 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本  
 
 安装或卸载  
@@ -15,7 +15,7 @@
 bash <(curl -s -L https://233blog.com/v2ray.sh)  
 
 
-另附：  
+##另附：  
 SSR 一键安装脚本（四合一）-by 秋水逸冰  
 wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh  
 chmod +x shadowsocks-all.sh  
