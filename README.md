@@ -16,7 +16,7 @@ chmod +x install.sh
 `bash <(curl -s -L https://233blog.com/v2ray.sh)`  
 <br>
 <br>
-**另附：**  
+## **另附：**  
 SSR 一键安装脚本（四合一）-by 秋水逸冰  
 ```javascript
 wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh  
