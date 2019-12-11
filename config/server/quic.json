@@ -18,7 +18,13 @@
 				]
 			},
 			"streamSettings": {
-				"network": "tcp"
+				"network": "quic",
+				"quicSettings": {
+					"key": "",
+					"header": {
+						"type": "none"
+					}
+				}
 			},
 			"sniffing": {
 				"enabled": true,
@@ -43,8 +49,8 @@
 			"protocol": "blackhole",
 			"settings": {},
 			"tag": "blocked"
-		},
-		{
+        },
+        {
 			"protocol": "freedom",
 			"settings": {},
 			"tag": "direct"
@@ -67,7 +73,7 @@
 		]
 	},
 	"routing": {
-		"domainStrategy": "IPOnDemand",	
+		"domainStrategy": "IPOnDemand",		
 		"rules": [
 			{
 				"type": "field",
