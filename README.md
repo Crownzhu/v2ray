@@ -7,8 +7,8 @@
 1. 使用命令sudo -i取得root权限  
 2. 使用 root 用户输入下面命令安装或卸载  
 ```javascript
-git clone https://github.com/Crownzhu/v2ray_shadowsocks--GoogleCloud
-cd v2ray_shadowsocks--GoogleCloud
+git clone https://github.com/Crownzhu/v2ray_SS--GCP
+cd v2ray_SS--GoogleCloud
 chmod +x install.sh
 ./install.sh local
 ```
