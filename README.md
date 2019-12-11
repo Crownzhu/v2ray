@@ -8,7 +8,7 @@
 2. 使用 root 用户输入下面命令安装或卸载  
 ```javascript
 git clone https://github.com/Crownzhu/v2ray_shadowsocks--GoogleCloud
-cd v2ray
+cd v2ray_shadowsocks--GoogleCloud
 chmod +x install.sh
 ./install.sh local
 ```
