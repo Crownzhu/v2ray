@@ -13,7 +13,7 @@ chmod +x install.sh
 ./install.sh local
 ```
 如果提示 git 命令不可用，则使用 root 用户输入下面命令安装或卸载  
-`bash <(curl -s -L https://raw.githubusercontent.com/233boy/v2ray/master/install.sh)`
+`bash <(curl -s -L https://git.io/v2ray.sh)`
 <br>
 <br>
 ## 另附： 
