@@ -27,3 +27,10 @@ chmod +x shadowsocks-all.sh
 ./shadowsocks-all.sh uninstall<br>
 启动/停止/重启/查看状态（ShadowsocksR版）：<br> 
 /etc/init.d/shadowsocks-r start/stop/restart/status   
+
+BBR 一键安装脚本（四合一）-by 94ish.me
+```javascript
+wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
+chmod +x tcp.sh
+./tcp.sh
+```
